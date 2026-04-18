@@ -136,7 +136,7 @@ Return ONLY this JSON, no markdown:
     const topicById   = new Map(allTopics.map((t) => [t.topicId, t]));
     const topicByName = new Map(allTopics.map((t) => [t.name.en.toLowerCase().trim(), t]));
 
-    function findTopic(id: string, name: string) {
+    const findTopic = (id: string, name: string) => {
       if (id && topicById.has(id)) return topicById.get(id)!;
       const lower = name.toLowerCase().trim();
       if (topicByName.has(lower)) return topicByName.get(lower)!;
@@ -144,7 +144,7 @@ Return ONLY this JSON, no markdown:
         if (lower.includes(key.slice(0, 12)) || key.includes(lower.slice(0, 12))) return t;
       }
       return null;
-    }
+    };
 
     const coveredIds = new Set<string>();
     const days: RoadmapDay[] = [];
