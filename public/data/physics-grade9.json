@@ -1,0 +1,380 @@
+{
+  "subject": "Physics",
+  "subjectCode": "PHY",
+  "grade": "Grade 9",
+  "gradeCode": "G9",
+  "chapters": [
+    {
+      "chapter_name_en": "Internal Energy",
+      "chapter_name_cn": "内能",
+      "topics": [
+        {
+          "topic_en": "Molecular Thermal Motion",
+          "topic_cn": "分子热运动",
+          "short": "Matter consists of constantly moving molecules. This random motion increases with temperature.",
+          "short_cn": "物质由不断运动的分子组成。这种无规则运动随温度升高而加剧，称为分子热运动。",
+          "detailed": "All common substances are made up of extremely tiny particles called molecules and atoms. Phenomena like the spreading of fragrance or mixing of gases (diffusion) prove that these particles are in a state of continuous, random motion. This inherent movement is termed molecular thermal motion. The speed of this motion is directly proportional to the temperature of the substance; higher temperatures mean more vigorous movement. Furthermore, molecules exert forces on each other—both attractive and repulsive—which are collectively known as intermolecular forces. The balance between these forces and molecular motion determines whether a substance is a solid, liquid, or gas.",
+          "detailed_cn": "所有常见物质都由称为分子和原子的极微小粒子组成。香气扩散或气体混合（扩散现象）等现象证明这些粒子处于连续的无规则运动状态。这种固有运动称为分子热运动。运动速度与物质温度成正比，温度越高运动越剧烈。此外，分子之间存在引力和斥力，统称为分子间作用力。这些力与分子运动的平衡决定了物质是固态（有固定形状和体积）、液态（有固定体积无固定形状）还是气态（无固定形状和体积）。"
+        },
+        {
+          "topic_en": "Internal Energy",
+          "topic_cn": "内能",
+          "short": "The total kinetic and potential energy of all molecules within an object. Changed via work or heat transfer.",
+          "short_cn": "物体内所有分子动能和势能的总和，称为内能。内能可通过做功或热传递改变。",
+          "detailed": "Internal energy (U) encompasses the aggregate kinetic energy from random thermal motion of molecules and the potential energy from intermolecular forces. Even a cold block of ice possesses internal energy because its molecules are still in motion. Two fundamental mechanisms alter internal energy: Heat Transfer (thermal energy moving from hotter to colder body, quantified as Q) and Work (mechanical energy converted into internal energy, e.g., through friction). The unit is the Joule (J).",
+          "detailed_cn": "内能（U）包括分子无规则热运动产生的动能以及分子间作用力产生的势能之总和。即使是一块冷冰也具有内能，因为其水分子仍在运动。改变内能的两种基本方式：热传递（热量从高温物体传向低温物体，用Q表示）和做功（如摩擦将机械能转化为内能）。内能的单位是焦耳（J）。"
+        },
+        {
+          "topic_en": "Specific Heat Capacity",
+          "topic_cn": "比热容",
+          "short": "Heat to raise 1 kg by 1°C. Formula: c = Q/(mΔt). Water: c = 4200 J/(kg·°C) — very high.",
+          "short_cn": "使1千克某种物质温度升高1°C所需热量。公式：c = Q/(mΔt)。水的比热容c = 4200 J/(kg·°C)，非常大。",
+          "detailed": "Specific heat capacity (c) is a fundamental physical property unique to each material. It quantifies a substance's resistance to temperature change. Formula: c = Q / (m × Δt), where Q is heat absorbed/released, m is mass, and Δt is temperature change. Unit: J/(kg·°C). Water has a very high specific heat capacity (4.2 × 10³ J/(kg·°C)), which is why coastal regions have moderate climates and why water is used in radiators and engine coolants.",
+          "detailed_cn": "比热容（c）是每种材料特有的基本物理属性，衡量物质抵抗温度变化的能力。公式：c = Q / (m × Δt)，其中Q是吸收或释放的热量，m是质量，Δt是温度变化。单位：J/(kg·°C)。水的比热容非常大（4.2 × 10³ J/(kg·°C)），因此沿海地区气候温和——水吸收大量太阳热量但温度变化不大。沙漠中的沙子比热容小，温度变化剧烈。这一特性使水成为暖气系统和发动机冷却液的理想介质。"
+        }
+      ]
+    },
+    {
+      "chapter_name_en": "Utilization of Internal Energy",
+      "chapter_name_cn": "内能的利用",
+      "topics": [
+        {
+          "topic_en": "Heat Engines",
+          "topic_cn": "热机",
+          "short": "Devices converting thermal energy to mechanical work. Gasoline engine: 4 strokes — Intake, Compression, Power, Exhaust.",
+          "short_cn": "将热能转化为机械功的装置。汽油机四个冲程：吸气、压缩、做功、排气。",
+          "detailed": "Heat engines convert chemical energy in fuel into kinetic energy. The most common type is the internal combustion engine. A gasoline engine operates on a four-stroke cycle: Intake (air-fuel mixture enters), Compression (mixture is pressurized), Power (spark plug ignites mixture, expanding gases push piston), and Exhaust (burnt gases expelled). A diesel engine compresses only air to high temperature, then injects fuel causing spontaneous ignition. Diesel engines are more fuel-efficient but heavier and noisier.",
+          "detailed_cn": "热机将燃料中储存的化学能转化为动能。最常见的是内燃机。汽油机按四冲程循环工作：吸气（吸入油气混合物）、压缩（混合物被加压）、做功（火花塞点火，膨胀气体推动活塞向下）、排气（排出废气）。柴油机仅压缩空气到高温，然后喷入燃料，因高温自行点火。柴油机燃油效率更高，但更重、更嘈杂。"
+        },
+        {
+          "topic_en": "Efficiency of Heat Engines",
+          "topic_cn": "热机的效率",
+          "short": "η = Useful Work / Total Heat Input. Always less than 100%. Gasoline: 20–30%, Diesel: up to 45%.",
+          "short_cn": "热机效率 η = 有用功 / 燃料释放总热量。因散热损失，效率恒小于100%。汽油机20~30%，柴油机最高45%。",
+          "detailed": "Thermal efficiency (η) = Useful Work Output / Total Heat Released by Fuel. In practice, much energy is lost through hot exhaust gases, heat dissipated through the engine body, and friction. Gasoline engines have efficiencies of 20%–30%, while modern diesel engines can reach 45%. Improving efficiency is a major engineering goal to conserve fuel and reduce pollution.",
+          "detailed_cn": "热机效率（η）= 有用功输出 / 燃料释放总热量。实际上，大量能量通过以下途径损失：高温废气带走的热量、发动机本身向环境散失的热量、克服摩擦损耗的能量。典型汽油机效率为20%~30%，现代柴油机可达45%。提高热机效率是节约燃料、减少污染的重要工程目标。"
+        },
+        {
+          "topic_en": "Energy Transformation and Conservation",
+          "topic_cn": "能量的转化和守恒",
+          "short": "Energy cannot be created or destroyed — only transformed. Total energy in an isolated system is always constant.",
+          "short_cn": "能量既不能凭空创造，也不能凭空消灭，只能从一种形式转化为另一种形式。孤立系统的总能量保持不变。",
+          "detailed": "The Law of Conservation of Energy: the total energy in an isolated system remains constant. Energy takes many forms—kinetic, potential, chemical, electrical, nuclear, thermal—and constantly converts between them. In a swinging pendulum, gravitational potential energy converts to kinetic energy and back, with a tiny fraction lost as heat due to air resistance. This proves the impossibility of a perpetual motion machine. The total energy is always conserved.",
+          "detailed_cn": "能量守恒定律：孤立系统的总能量始终保持不变。能量有多种表现形式——动能、势能、化学能、电能、核能、热能——并在它们之间不断转化。在摆动的单摆中，重力势能转化为动能，再转化回势能，因空气阻力有极小部分以热量形式散失。这证明了永动机的不可能性。宇宙中的能量总量永恒不变。"
+        }
+      ]
+    },
+    {
+      "chapter_name_en": "Electric Current and Circuits",
+      "chapter_name_cn": "电流和电路",
+      "topics": [
+        {
+          "topic_en": "Two Kinds of Electric Charges",
+          "topic_cn": "两种电荷",
+          "short": "Two types: positive (+) and negative (−). Like charges repel, unlike attract. Elementary charge: e = 1.6×10⁻¹⁹ C.",
+          "short_cn": "电荷分两种：正电荷（+）和负电荷（−）。同种电荷互相排斥，异种电荷互相吸引。基本电荷量：e = 1.6×10⁻¹⁹ C。",
+          "detailed": "Through friction (triboelectric effect), objects can gain or lose electrons, becoming electrically charged. All charges fall into one of two categories. The magnitude of charge is measured in Coulombs (C). The smallest unit of charge is the elementary charge (e = 1.6 × 10⁻¹⁹ C), the charge of a single proton (+e) or electron (−e). Conductors allow easy flow of charge (like copper); insulators resist charge flow (like rubber).",
+          "detailed_cn": "通过摩擦（摩擦起电），物体可以得到或失去电子，从而带电。所有电荷只有两种类型。电荷量用库仑（C）衡量。最小的电荷单元是基本电荷（e = 1.6 × 10⁻¹⁹ C），即一个质子（+e）或电子（−e）的电荷量。导体（如铜）允许电荷轻松流过；绝缘体（如橡胶）阻止电荷流动。"
+        },
+        {
+          "topic_en": "Electric Current and Circuits",
+          "topic_cn": "电流和电路",
+          "short": "Current = directed flow of charge. A closed circuit is required. Components: power source, load, wires, switch.",
+          "short_cn": "电流是电荷的定向移动。需要闭合回路。电路基本组成：电源、用电器、导线、开关。",
+          "detailed": "Electric current (I) is the rate of flow of charge. By convention, current direction is from positive to negative terminal (opposite to electron flow). A complete closed loop is essential for sustained current. Circuit components: Power Source (battery), Load (light bulb or motor), Conducting Wires, and Switch. Key conditions: Closed Circuit (current flows), Open Circuit (no current), Short Circuit (dangerously high current, bypass load).",
+          "detailed_cn": "电流（I）是电荷定向移动的速率。规定电流方向为正极到负极（与电子流动方向相反）。维持持续电流需要完整闭合回路。电路基本组成：电源（如电池，提供电动势）、用电器（如灯泡或电机，消耗电能）、导线（提供通路）、开关（控制电路）。关键状态：通路（有电流）、断路（电路断开，无电流）、短路（极低阻力通路，电流极大，非常危险）。"
+        },
+        {
+          "topic_en": "Series and Parallel Circuits",
+          "topic_cn": "串联和并联",
+          "short": "Series: one path, one fails all fail. Parallel: multiple independent paths, equal voltage, used in homes.",
+          "short_cn": "串联：电流只有一条路径，一处断路全部断路。并联：多条独立支路，各支路电压相等，家庭用电采用并联。",
+          "detailed": "In a Series connection, components are linked end-to-end creating a single pathway. Current is identical at every point. If one component fails, the circuit breaks and all stop. In a Parallel connection, components are connected across common junctions creating multiple independent branches. The voltage across every branch is the same. If one branch fails, others continue operating. Parallel circuits are used for household wiring.",
+          "detailed_cn": "串联连接中，元件首尾相连形成单一通路。电路中各处电流相同。若一个元件断路，整个电路断开，所有元件停止工作。并联连接中，元件连接在公共节点之间，形成多条独立支路。每条支路两端电压相同。若一条支路断路，其他支路仍可正常工作。家庭电路采用并联方式。"
+        },
+        {
+          "topic_en": "Measurement of Current",
+          "topic_cn": "电流的测量",
+          "short": "Use ammeter connected in series. Observe correct polarity (+). Unit: Ampere (A). 1 A = 1000 mA.",
+          "short_cn": "用电流表测量电流，电流表与被测元件串联。注意正负接线柱方向。单位：安培（A），1 A = 1000 mA。",
+          "detailed": "An ammeter is connected in series with the component being measured. Cardinal rules: (1) Connect in series. (2) Observe correct polarity — positive terminal to positive side of power source. (3) Select a range higher than expected maximum current; start with the highest range to prevent damage. Common conversion: 1 A = 1000 mA.",
+          "detailed_cn": "电流表与被测元件串联接入电路。使用规则：（1）电流表必须串联。（2）注意极性——电流表正接线柱（+）接电源正极方向。（3）选择量程应大于预计最大电流；初始选最大量程以防损坏，再换合适量程提高精度。常用换算：1 A = 1000 mA。"
+        },
+        {
+          "topic_en": "Current Laws in Series and Parallel Circuits",
+          "topic_cn": "串、并联电路中电流的规律",
+          "short": "Series: I = I₁ = I₂ (same everywhere). Parallel: I = I₁ + I₂ (branch currents add up).",
+          "short_cn": "串联电路：各处电流相等，I = I₁ = I₂。并联电路：干路电流等于各支路电流之和，I = I₁ + I₂。",
+          "detailed": "These rules are derived from conservation of charge. In a series circuit, because there is only one path, the current at every point must be exactly the same. In a parallel circuit, the main current splits at junctions to flow through branches. The sum of branch currents equals the current entering the junction. This is analogous to a river splitting into smaller streams that rejoin downstream.",
+          "detailed_cn": "这些规律由电荷守恒定律推导得出。在串联电路中，由于只有一条通路，每一处的电流都必须完全相同。在并联电路中，干路电流在节点分流进入各支路，各支路电流之和等于进入节点的干路电流。这如同一条河流（干路）分成几条小溪（支路）后再汇合。"
+        }
+      ]
+    },
+    {
+      "chapter_name_en": "Voltage and Resistance",
+      "chapter_name_cn": "电压 电阻",
+      "topics": [
+        {
+          "topic_en": "Voltage",
+          "topic_cn": "电压",
+          "short": "Voltage (electric potential difference) drives current. Unit: Volt (V). Measure with voltmeter in parallel.",
+          "short_cn": "电压（电位差）是驱动电流流动的\"推力\"。单位：伏特（V）。用电压表并联测量。",
+          "detailed": "Voltage (U) measures potential energy difference per unit charge between two points. Without a voltage difference, no current flows — like water needing pressure to flow in a pipe. Common voltages: dry cell (1.5 V), lead-acid cell (2 V), household mains (220 V in China). A voltmeter measures potential difference and must be connected in parallel with the circuit section being tested.",
+          "detailed_cn": "电压（U）衡量两点之间单位电荷的电势能之差。没有电位差就没有电流，就像水管中没有压差水就不流动。常见电压参考值：单节干电池（1.5 V）、铅蓄电池单格（2 V）、家庭用电（220 V）。电压表测量电位差，必须与被测电路部分并联接入。"
+        },
+        {
+          "topic_en": "Voltage Laws in Series and Parallel Circuits",
+          "topic_cn": "串、并联电路中电压的规律",
+          "short": "Series: U = U₁ + U₂ (voltages add). Parallel: U = U₁ = U₂ (equal voltage across all branches).",
+          "short_cn": "串联电路：总电压等于各部分电压之和，U = U₁ + U₂。并联电路：各支路两端电压相等，U = U₁ = U₂。",
+          "detailed": "In a series circuit, the total battery voltage is distributed among all loads — each load has a voltage drop proportional to its resistance. In a parallel circuit, the two terminals of each branch are directly connected to the battery terminals. Therefore, the potential difference across each branch equals the source voltage. Points connected by ideal conductors are at the same electric potential.",
+          "detailed_cn": "在串联电路中，电池总电压分配给所有用电器——每个用电器的电压降与其电阻成正比。在并联电路中，每条支路的两端直接连接电池两极，因此每条支路两端的电位差等于电源电压。用理想导线连接的点处于相同电位。"
+        },
+        {
+          "topic_en": "Resistance",
+          "topic_cn": "电阻",
+          "short": "Opposition to current flow. Unit: Ohm (Ω). Depends on material, length, cross-section, and temperature.",
+          "short_cn": "导体对电流的阻碍作用称为电阻。单位：欧姆（Ω）。电阻与材料、长度、横截面积和温度有关。",
+          "detailed": "Resistance (R), measured in Ohms (Ω), is an intrinsic electrical property of matter. For a given material, resistance is directly proportional to length (longer wire → more resistance) and inversely proportional to cross-sectional area (thicker wire → less resistance). The proportionality constant is the resistivity (ρ). Resistance is also temperature-dependent; for most metals, resistance increases with temperature. At extremely low temperatures, some materials exhibit zero resistance — superconductivity.",
+          "detailed_cn": "电阻（R）以欧姆（Ω）为单位，是物质固有的电学属性。对于特定材料，电阻与长度成正比（导线越长，电阻越大）、与横截面积成反比（导线越粗，电阻越小）。比例系数为电阻率（ρ）。电阻还与温度有关，大多数金属的电阻随温度升高而增大。在极低温度下，某些材料呈现零电阻——即超导现象。"
+        },
+        {
+          "topic_en": "Rheostat",
+          "topic_cn": "变阻器",
+          "short": "Variable resistor to control current or voltage. Slide the wiper to change effective wire length and resistance.",
+          "short_cn": "滑动变阻器可调节电阻值，从而控制电路中的电流和电压。移动滑片改变接入导线的有效长度。",
+          "detailed": "A sliding rheostat consists of a coil of resistive wire with a movable contact (wiper) that selects the effective length of wire in the circuit. Moving the wiper changes the resistance. Two primary uses: (1) Current limiter — connected in series to protect sensitive components. (2) Voltage divider (potentiometer) — three-terminal connection provides variable output voltage. Safety: always set to maximum resistance before closing the circuit switch.",
+          "detailed_cn": "滑动变阻器由绕有电阻丝的骨架和可移动的滑片组成。滑动变阻器的滑片位置决定接入电路的电阻丝有效长度，从而改变阻值。主要用途：（1）限流器——与元件串联，保护敏感元件。（2）分压器——利用三个接线柱提供可调节的输出电压。安全注意：闭合电路开关前，应将滑片调至阻值最大处。"
+        }
+      ]
+    },
+    {
+      "chapter_name_en": "Ohm's Law",
+      "chapter_name_cn": "欧姆定律",
+      "topics": [
+        {
+          "topic_en": "Relationship between Current, Voltage, and Resistance",
+          "topic_cn": "电流与电压和电阻的关系",
+          "short": "At constant temperature: current is proportional to voltage (fixed R) and inversely proportional to resistance (fixed U).",
+          "short_cn": "温度不变时：电阻固定，电流与电压成正比；电压固定，电流与电阻成反比。",
+          "detailed": "Through controlled experiments, the relationship among current, voltage, and resistance was established. Keeping resistance fixed and varying voltage: current changes in direct proportion (double U → double I). Keeping voltage constant and changing resistance: current varies inversely (double R → half I). These empirical findings form the bedrock upon which Ohm's Law is constructed.",
+          "detailed_cn": "通过控制变量实验建立了电流、电压和电阻之间的关系。保持电阻不变，改变电压：电流与电压成正比（电压加倍，电流加倍）。保持电压不变，改变电阻：电流与电阻成反比（电阻加倍，电流减半）。这些实验规律构成了欧姆定律的基础。"
+        },
+        {
+          "topic_en": "Ohm's Law",
+          "topic_cn": "欧姆定律",
+          "short": "I = U / R. Current = Voltage ÷ Resistance. Named after physicist Georg Simon Ohm.",
+          "short_cn": "I = U / R。导体中的电流与导体两端的电压成正比，与导体的电阻成反比。由物理学家欧姆总结。",
+          "detailed": "Ohm's Law states that the current through a conductor is directly proportional to the voltage across it, provided physical conditions (especially temperature) remain constant. The formula I = U / R is a powerful circuit analysis tool. Knowing any two of the three quantities allows calculation of the third. Unit relationship: Volts / Ohms = Amperes. Rearranged: U = IR (voltage), R = U/I (resistance).",
+          "detailed_cn": "欧姆定律指出：在温度等物理条件不变的情况下，导体中的电流与其两端的电压成正比。公式 I = U / R 是强大的电路分析工具。已知三个量中的任意两个，即可求第三个。单位关系：伏特 / 欧姆 = 安培。变形公式：U = IR（求电压），R = U/I（求电阻）。"
+        },
+        {
+          "topic_en": "Measurement of Resistance",
+          "topic_cn": "电阻的测量",
+          "short": "Volt-Ampere Method: voltmeter in parallel + ammeter in series. Calculate R = U/I.",
+          "short_cn": "伏安法测电阻：电压表并联、电流表串联，测出U和I后由 R = U/I 计算电阻值。",
+          "detailed": "The Volt-Ampere Method is the standard experimental procedure. A voltmeter is connected in parallel across the unknown resistor; an ammeter is in series. Both are read simultaneously to calculate R = U / I. Placement consideration: 'ammeter-external' (voltmeter directly across resistor) is preferred for large resistances; 'ammeter-internal' is better for small resistances to minimize meter impedance effects on accuracy.",
+          "detailed_cn": "伏安法是测量电阻的标准实验方法。电压表并联在待测电阻两端，电流表串联接入电路，同时读数后用 R = U / I 计算。接法选择：对于大电阻，选\"安培表外接法\"（电压表直接并联在电阻两端）；对于小电阻，选\"安培表内接法\"，以减少电表内阻对测量精度的影响。"
+        },
+        {
+          "topic_en": "Application of Ohm's Law in Series and Parallel Circuits",
+          "topic_cn": "欧姆定律在串、并联电路中的应用",
+          "short": "Series: R_total = R₁ + R₂. Parallel: 1/R_total = 1/R₁ + 1/R₂. Parallel R is less than smallest branch R.",
+          "short_cn": "串联：R总 = R₁ + R₂（电阻增大）。并联：1/R总 = 1/R₁ + 1/R₂（等效电阻小于最小分支电阻）。",
+          "detailed": "In a series circuit, resistors are connected end-to-end so the equivalent resistance is the arithmetic sum: R_total = R₁ + R₂ + ... Adding more resistors in series always increases total resistance. In a parallel circuit, resistors share the same two nodes. The equivalent resistance is always less than the smallest individual resistor: 1/R_total = 1/R₁ + 1/R₂ + ... These formulas, combined with Ohm's Law, allow solving for any unknown in a complex circuit.",
+          "detailed_cn": "在串联电路中，电阻首尾相连，等效电阻为各电阻之和：R总 = R₁ + R₂ + ... 串联后总电阻增大。在并联电路中，电阻连接在相同的两节点之间，等效电阻总是小于其中最小的电阻：1/R总 = 1/R₁ + 1/R₂ + ... 将这些公式与欧姆定律结合，可求解复杂电路中的任意未知量。"
+        }
+      ]
+    },
+    {
+      "chapter_name_en": "Electric Power",
+      "chapter_name_cn": "电功率",
+      "topics": [
+        {
+          "topic_en": "Electric Energy and Electric Work",
+          "topic_cn": "电能 电功",
+          "short": "W = UIt = U²t/R = I²Rt. Unit: Joule (J). Household billing: kWh. 1 kWh = 3.6×10⁶ J.",
+          "short_cn": "电功 W = UIt = U²t/R = I²Rt。单位：焦耳（J）。家庭用电计量单位：千瓦时（kWh），1 kWh = 3.6×10⁶ J。",
+          "detailed": "When charge flows through a circuit, the electric field does work converting electrical potential energy to other forms. The amount of electrical work is W = UIt = U²t/R = I²Rt, where U is voltage, I is current, t is time, R is resistance. Unit: Joule (J). For household billing, the kilowatt-hour (kWh) is used: 1 kWh = 3.6 × 10⁶ J. The electricity meter in your home measures total kWh consumed.",
+          "detailed_cn": "电荷在电场驱动下流经电路时，电场力做功，将电势能转化为其他形式的能量。电功 W = UIt = U²t/R = I²Rt，其中U为电压，I为电流，t为时间，R为电阻。单位：焦耳（J）。家庭用电计量单位为千瓦时（kWh），俗称\"度\"：1 kWh = 3.6 × 10⁶ J。家中的电表记录消耗的总电能（度数）。"
+        },
+        {
+          "topic_en": "Electric Power",
+          "topic_cn": "电功率",
+          "short": "P = UI = I²R = U²/R. Rate of energy consumption. Unit: Watt (W). 1 W = 1 J/s.",
+          "short_cn": "电功率 P = UI = I²R = U²/R，表示电能转化的快慢。单位：瓦特（W），1 W = 1 J/s。",
+          "detailed": "Electric power (P) is the rate at which electrical energy converts to other forms. Measured in Watts (W), where 1 W = 1 J/s. Fundamental formula: P = UI. Combined with Ohm's Law: P = I²R (when current and resistance are known), P = U²/R (when voltage and resistance are known). The rated power of an appliance is the power it consumes at its rated voltage.",
+          "detailed_cn": "电功率（P）是电能转化为其他形式能量的速率，以瓦特（W）为单位，1 W = 1 J/s。基本公式：P = UI。结合欧姆定律：P = I²R（已知电流和电阻时使用），P = U²/R（已知电压和电阻时使用）。电器铭牌上的额定功率是在额定电压下工作时的功率。"
+        },
+        {
+          "topic_en": "Measuring the Electric Power of a Small Light Bulb",
+          "topic_cn": "测量小灯泡的电功率",
+          "short": "Experiment: ammeter (series) + voltmeter (parallel) + rheostat. Adjust voltage, record I and U, calculate P = UI.",
+          "short_cn": "实验：电流表串联、电压表并联、滑动变阻器调节。改变电压，记录I和U，用P = UI计算各电压下的实际功率。",
+          "detailed": "This lab experiment determines actual power consumption of a load at different voltages. Setup: ammeter in series, voltmeter in parallel with the bulb, rheostat in series to vary current. Adjusting the rheostat changes voltage; record V and I at each setting, then calculate P = UI. Key observation: the bulb's resistance is not constant — it increases as the filament heats up, so power does not scale as V² over a fixed resistance.",
+          "detailed_cn": "本实验测量灯泡在不同电压下的实际电功率。电路连接：电流表与灯泡串联，电压表与灯泡并联，滑动变阻器串联以调节电流。调节变阻器改变电压，记录各电压表和电流表的示数，用P = UI计算实际功率。重要发现：灯泡灯丝的电阻不是固定值——随灯丝温度升高而增大，因此功率不能简单按固定电阻计算。"
+        },
+        {
+          "topic_en": "Joule's Law",
+          "topic_cn": "焦耳定律",
+          "short": "Q = I²Rt. Heat from current in a resistor. Basis of electric heaters. Also causes fire risk from overloaded wires.",
+          "short_cn": "焦耳定律：Q = I²Rt。电流通过电阻产生的热量与电流平方、电阻和通电时间成正比。这是电热器的工作原理，也是电线过载引发火灾的原因。",
+          "detailed": "Joule's Law: Q = I²Rt, where Q is heat in Joules, I is current in Amperes, R is resistance in Ohms, and t is time in seconds. Useful side: electric heaters, toasters, and incandescent bulbs — the filament is a high-resistance wire that glows white-hot. Hazardous side: excessive current in wiring generates heat that can start fires. Fuses and circuit breakers interrupt the circuit when current exceeds a safe threshold.",
+          "detailed_cn": "焦耳定律：Q = I²Rt，其中Q为热量（焦耳），I为电流（安培），R为电阻（欧姆），t为通电时间（秒）。有益应用：电热器、烤面包机和白炽灯——灯丝是高阻值金属丝，通电后发热并发光。有害方面：导线中电流过大会产生大量热量，可能引发火灾。熔断器和断路器在电流超过安全阈值时自动断路，起保护作用。"
+        }
+      ]
+    },
+    {
+      "chapter_name_en": "Electricity in Daily Life",
+      "chapter_name_cn": "生活用电",
+      "topics": [
+        {
+          "topic_en": "Household Circuits",
+          "topic_cn": "家庭电路",
+          "short": "Home wiring: 220V AC, 50Hz. Live wire + Neutral wire + Earth wire. All appliances connected in parallel.",
+          "short_cn": "家庭电路：交流220V、50Hz。由火线、零线和地线组成。所有家用电器并联接入。",
+          "detailed": "Household systems in China operate at 220 V AC at 50 Hz. The incoming supply splits into a live wire (high voltage, black/red — dangerous), a neutral wire (near-zero potential, blue/black), and a safety earth wire (green-yellow). All appliances are connected in parallel between live and neutral wires, ensuring each receives full 220 V. The main distribution board contains fuses or circuit breakers to protect each circuit.",
+          "detailed_cn": "中国家庭电路使用220 V交流电、50 Hz频率。电源进线分为：火线（高电压，黑色或红色——有触电危险）、零线（接近零电位，蓝色或黑色）、地线（安全保护线，绿黄色）。所有家用电器并联接在火线和零线之间，每个电器获得完整的220 V电压。配电盘上装有保险丝或断路器，对每条支路进行保护。"
+        },
+        {
+          "topic_en": "Causes of Overcurrent in Household Circuits",
+          "topic_cn": "家庭电路中电流过大的原因",
+          "short": "Two causes: (1) Short circuit — live touches neutral, R→0, I→∞. (2) Overload — too many appliances at once.",
+          "short_cn": "电流过大的两个原因：（1）短路——火线与零线直接相连，电阻趋近于零，电流极大。（2）超载——同时使用的用电器过多，总功率超出线路承受能力。",
+          "detailed": "An overcurrent exceeds the rated capacity of the wiring. Cause 1 — Short Circuit: if live and neutral make direct contact (damaged insulation), path resistance drops to near zero. By Ohm's Law, current surges to a dangerously high value, generating extreme heat almost instantly. Cause 2 — Overload: connecting too many appliances simultaneously draws more current than the wiring is designed for. Solutions: fuses (thin wire that melts) or circuit breakers (electromechanical switches that trip automatically).",
+          "detailed_cn": "过电流是指超过导线额定电流的电流。原因一——短路：火线和零线因绝缘破损直接接触，通路电阻趋近于零，由欧姆定律可知电流极大，几乎瞬间产生大量热量，引发火灾。原因二——超载：同时接入过多用电器，总电流超过导线设计容量。解决方案：熔断器（特制细丝，过电流时熔断）或断路器（电磁式开关，自动跳闸）。"
+        },
+        {
+          "topic_en": "Electrical Safety",
+          "topic_cn": "安全用电",
+          "short": "Never touch live wires. Use earthing. Install fuses/breakers. Keep electrical devices away from water.",
+          "short_cn": "安全用电：不触摸火线，用电器必须接地，安装保险丝或断路器，用电器远离水源。",
+          "detailed": "Electrical safety protects against shock, burns, cardiac arrest, and death. Key practices: (1) Earthing: the metal case of appliances is connected to earth, so fault current flows safely to ground instead of through a person. (2) Fuses and Circuit Breakers: limit maximum current to protect wiring from overheating. (3) Safety Rules: never work on live circuits; keep electrical equipment away from water; do not overload sockets; never touch equipment with wet hands. High-voltage lines pose arcing risk even without direct contact.",
+          "detailed_cn": "安全用电能防止触电、烧伤、心跳停止乃至死亡。关键措施：（1）接地：将用电器金属外壳接地线，发生漏电时电流经地线流入大地而非人体。（2）熔断器和断路器：限制最大电流，防止导线过热。（3）安全守则：不在带电情况下操作电路；使用电器时远离水源；不过载使用插座；不用湿手触摸电器。高压线即使没有直接接触也有电弧放电风险。"
+        }
+      ]
+    },
+    {
+      "chapter_name_en": "Electricity and Magnetism",
+      "chapter_name_cn": "电与磁",
+      "topics": [
+        {
+          "topic_en": "Magnetic Phenomena and Magnetic Field",
+          "topic_cn": "磁现象 磁场",
+          "short": "Magnets have N and S poles. Like poles repel, unlike attract. Earth is a giant magnet. Field lines go N→S outside.",
+          "short_cn": "磁体有N极和S极。同名磁极互相排斥，异名磁极互相吸引。地球是一个巨大磁体。磁感线在外部从N极到S极。",
+          "detailed": "Magnetic poles always exist in pairs (N and S); a single magnetic monopole has never been observed. The Earth itself is a giant magnet, which is why compass needles point North. The magnetic field is a vector field represented by magnetic field lines that emerge from the North pole and enter the South pole — they never cross. The density of lines indicates field strength.",
+          "detailed_cn": "磁极总是成对存在（N极和S极），至今未发现单独的磁极（磁单极子）。地球本身是一个巨大的磁体，这正是指南针指向北方的原因。磁场是用磁感线描述的矢量场：磁感线从N极出发，进入S极，在任何地方都不会相交。磁感线的密度表示磁场的强弱。"
+        },
+        {
+          "topic_en": "Electricity Produces Magnetism",
+          "topic_cn": "电生磁",
+          "short": "Oersted (1820): current creates magnetic field. Right-hand rule gives direction. Solenoid acts like a bar magnet.",
+          "short_cn": "奥斯特（1820年）发现：通电导线周围存在磁场。用右手定则判断磁场方向。通电螺线管相当于条形磁铁。",
+          "detailed": "Oersted's 1820 discovery that a compass needle deflects near a current-carrying wire proved electricity and magnetism are fundamentally linked. Right-hand rule: point thumb in direction of conventional current; curled fingers indicate circular magnetic field direction. By winding wire into a solenoid, magnetic fields of each turn reinforce, creating a strong uniform field inside the coil — like a bar magnet.",
+          "detailed_cn": "奥斯特1820年发现通电导线附近的指南针发生偏转，证明了电和磁的本质联系。右手定则：大拇指指向电流方向，弯曲的四指所指方向就是磁感线的环绕方向。将导线绕成螺线管（线圈）后，每匝导线产生的磁场相互叠加，在线圈内部形成强而均匀的磁场，相当于一根条形磁铁。"
+        },
+        {
+          "topic_en": "Electromagnets and Electromagnetic Relays",
+          "topic_cn": "电磁铁 电磁继电器",
+          "short": "Electromagnet = coil + soft iron core. Strength controlled by current and turns. Relay = electromagnet-controlled switch.",
+          "short_cn": "电磁铁 = 螺线管 + 软铁芯。磁性强弱由电流大小和线圈匝数控制。电磁继电器是利用电磁铁控制的开关。",
+          "detailed": "An electromagnet consists of a solenoid wound around a soft iron core. When current flows, the core becomes magnetized and amplifies the field. Strength increases with: more current, more coil turns, or better core material. The field disappears when current stops (soft iron has low magnetic retentivity). An electromagnetic relay uses a small control current to energize an electromagnet, which attracts an armature to close or open a separate high-power circuit.",
+          "detailed_cn": "电磁铁由绕在软铁芯上的螺线管组成。通电后，铁芯被磁化，大幅增强磁场。可通过以下方式增强磁性：增大电流、增加线圈匝数、使用更好的铁芯材料。断电后磁性消失（软铁剩磁极小）。电磁继电器用小电流控制电磁铁，电磁铁吸引衔铁，从而接通或断开另一个大电流工作电路，实现用小电流安全控制大电流。"
+        },
+        {
+          "topic_en": "Electric Motor",
+          "topic_cn": "电动机",
+          "short": "Converts electrical energy to mechanical energy. Current-carrying coil in magnetic field experiences torque and rotates.",
+          "short_cn": "电动机将电能转化为机械能。通电线圈在磁场中受到安培力产生转矩，从而转动。",
+          "detailed": "A current-carrying conductor in a magnetic field experiences a force (motor effect). In a DC motor, a rectangular coil is placed between permanent magnet poles. Current through the coil creates opposing forces on the two sides, generating torque and rotation. A commutator reverses the current direction every half-turn, ensuring torque always acts in the same rotational direction. Electric motors are highly efficient and widely used in industry, transportation, and appliances.",
+          "detailed_cn": "通电导体在磁场中受到安培力的作用（电动机效应）。在直流电动机中，矩形线圈置于永磁铁磁极之间。线圈中的电流在两侧受到方向相反的安培力，产生转矩，使线圈转动。换向器每半圈反转一次电流方向，确保转矩始终沿同一旋转方向作用。电动机效率高，在工业、交通和家电中广泛应用。"
+        },
+        {
+          "topic_en": "Magnetism Produces Electricity",
+          "topic_cn": "磁生电",
+          "short": "Faraday (1831): changing magnetic flux induces EMF — electromagnetic induction. Basis of all generators.",
+          "short_cn": "法拉第（1831年）：磁通量的变化在导体中产生感应电动势——电磁感应现象。这是所有发电机的工作原理。",
+          "detailed": "Faraday's 1831 discovery of electromagnetic induction is the operating principle of virtually all electrical generators. A change in magnetic flux through a conducting loop induces an EMF in that loop, driving current if the circuit is closed. Two equivalent approaches: move the conductor relative to the magnetic field (generator), or change the field strength (transformer). The induced current opposes the change that caused it (Lenz's Law). This underlies generators, alternators, microphones, and transformers.",
+          "detailed_cn": "法拉第1831年发现的电磁感应是几乎所有发电机的工作原理。穿过导体回路的磁通量发生变化时，在回路中产生感应电动势；若电路闭合，则产生感应电流。两种等效方式：导体相对磁场运动（发电机原理），或磁场强度变化（变压器原理）。感应电流的方向总是阻碍引起感应的磁通量变化（楞次定律）。这一原理是发电机、交流发电机、麦克风和变压器的基础。"
+        }
+      ]
+    },
+    {
+      "chapter_name_en": "Transmission of Information",
+      "chapter_name_cn": "信息的传递",
+      "topics": [
+        {
+          "topic_en": "Modern Wind-Listening Ear - Telephone",
+          "topic_cn": "现代顺风耳——电话",
+          "short": "Telephone: sound → electrical signal → sound. Microphone converts sound to current; earpiece converts back.",
+          "short_cn": "电话：声音→电信号→声音。话筒（麦克风）将声音转化为电流变化；听筒将电信号还原为声音。",
+          "detailed": "The essential telephone components are the transmitter (microphone) and receiver (earpiece). In a classic carbon microphone, sound waves compress carbon granules, varying their resistance and modulating a DC current. At the receiver, this varying current flows through an electromagnet, vibrating a diaphragm to reproduce sound. Telephone exchanges connect multiple users without dedicated wires for every pair. Modern systems digitize voice signals for clearer, more reliable communication.",
+          "detailed_cn": "电话的核心部件是话筒（发送端）和听筒（接收端）。在经典碳粒话筒中，声波使膜片振动，压缩碳粒，改变其电阻，从而调制直流电流，将声音变为电信号。在听筒中，变化的电流流过电磁铁，使金属膜片振动，还原声音。电话交换机无需为每对用户架设专用线路即可连接所有用户。现代电话系统将语音信号数字化，通话更清晰、更可靠。"
+        },
+        {
+          "topic_en": "The Ocean of Electromagnetic Waves",
+          "topic_cn": "电磁波的海洋",
+          "short": "EM waves travel at c = 3×10⁸ m/s in vacuum. Formula: c = fλ. No medium needed. Spectrum: radio to gamma rays.",
+          "short_cn": "电磁波在真空中以 c = 3×10⁸ m/s 传播，无需介质。公式：c = fλ。电磁波谱：从无线电波到γ射线。",
+          "detailed": "Maxwell's theory predicted, and Hertz confirmed, that a time-varying electric field produces a magnetic field, and vice-versa. This gives rise to EM waves that radiate outward. EM waves require no physical medium and travel at c ≈ 3.00 × 10⁸ m/s in vacuum. Relationship: c = fλ (speed = frequency × wavelength). The electromagnetic spectrum spans from very long radio waves to extremely short gamma rays, each with unique properties and applications.",
+          "detailed_cn": "麦克斯韦理论预言（赫兹实验证实）：变化的电场产生磁场，变化的磁场产生电场，这一过程向外辐射形成电磁波。电磁波无需介质，在真空中以 c ≈ 3.00 × 10⁸ m/s 传播。关系式：c = fλ（波速 = 频率 × 波长）。电磁波谱从波长极长的无线电波延伸到波长极短的γ射线，各段具有独特的性质和应用。"
+        },
+        {
+          "topic_en": "Broadcasting, Television, and Mobile Communication",
+          "topic_cn": "广播、电视和移动通信",
+          "short": "Modulation embeds signal onto carrier wave (AM/FM). Demodulation extracts it. Mobile phones use base station networks.",
+          "short_cn": "调制将信号加载到高频载波上（调幅AM或调频FM）。解调从中取出原信号。移动电话通过基站网络通信。",
+          "detailed": "Low-frequency audio/video signals are inefficient EM wave radiators. They are 'piggybacked' onto a high-frequency RF carrier wave via modulation: AM (Amplitude Modulation) varies carrier amplitude, FM (Frequency Modulation) varies frequency. The modulated wave is transmitted by an antenna. A receiver tuner selects the desired frequency, and a demodulator extracts the original signal. Mobile phones are sophisticated two-way transceivers communicating with base stations.",
+          "detailed_cn": "频率较低的音频/视频信号不能有效辐射电磁波，需\"搭载\"在高频载波上，这一过程称为调制：调幅（AM）改变载波振幅，调频（FM）改变载波频率。调制后的信号由发射天线辐射出去。接收端通过调谐选择所需频率，再由解调电路从中还原出原始音频或视频信号。移动电话是精密的双向无线收发设备，与基站网络通信，在小区之间切换通话。"
+        },
+        {
+          "topic_en": "Wider and Wider Information Paths",
+          "topic_cn": "越来越宽的信息之路",
+          "short": "Higher frequency carrier = more information capacity. Fiber optics use laser light for enormous internet bandwidth.",
+          "short_cn": "载波频率越高，携带信息量越大。光导纤维利用激光传输信息，带宽极大，是现代互联网骨干。",
+          "detailed": "Shannon's information theory establishes that higher frequency carriers encode more information per second. This drove progression from radio waves to microwaves to optical fiber. Microwaves are used for point-to-point and satellite communication (require line-of-sight). Optical fiber uses near-infrared laser light guided through hair-thin glass fibers. Light's frequency is orders of magnitude higher than radio waves, giving fiber enormous bandwidth. Global submarine fiber optic cables form the internet's physical backbone.",
+          "detailed_cn": "香农信息理论指出：载波频率越高，每秒能传输的信息量越大。这推动了通信技术从无线电波→微波→光纤的发展。微波用于点对点通信和卫星通信（需要视距传播）。光导纤维用近红外激光在极细的玻璃纤维中传输信息。光的频率比无线电波高出数个数量级，使光纤具有极大的传输带宽，是高速互联网的基础。全球海底光缆网络构成了互联网的物理骨干。"
+        }
+      ]
+    },
+    {
+      "chapter_name_en": "Energy and Sustainable Development",
+      "chapter_name_cn": "能源与可持续发展",
+      "topics": [
+        {
+          "topic_en": "Energy Sources",
+          "topic_cn": "能源",
+          "short": "Primary (from nature) vs Secondary (derived). Non-renewable: coal/oil/gas. Renewable: solar/wind/hydro/geothermal.",
+          "short_cn": "一次能源（直接来自自然）vs 二次能源（由一次能源转化）。不可再生：煤、石油、天然气。可再生：太阳能、风能、水能、地热能。",
+          "detailed": "Energy resources are Primary if found in nature (coal, crude oil, sunlight, wind, uranium) or Secondary if derived from conversion (electricity, gasoline). Critical classification by renewability: Non-renewable sources (coal, oil, natural gas) exist in finite deposits taking geological timescales to form. Renewable sources (solar, wind, hydro, geothermal) are naturally replenished on a human timescale and are sustainable. The transition to renewables is a defining challenge of our era.",
+          "detailed_cn": "能源按来源分为一次能源（直接取自自然，如煤炭、石油、太阳光、风、铀矿）和二次能源（由一次能源转化，如电能、汽油）。按可再生性分类：不可再生能源（煤、石油、天然气）储量有限，需数百万年地质时间形成；可再生能源（太阳能、风能、水能、地热能）在人类时间尺度内可自然补充，可持续利用。向可再生能源的转型是当今时代最重要的挑战之一。"
+        },
+        {
+          "topic_en": "Nuclear Energy",
+          "topic_cn": "核能",
+          "short": "Fission: split U-235 → chain reaction → heat → electricity. Fusion: join hydrogen atoms → helium + huge energy. E=mc².",
+          "short_cn": "裂变：铀-235吸收中子后裂变→链式反应→热量→电能。聚变：氢核聚合→氦+巨大能量（太阳的能量来源）。E=mc²。",
+          "detailed": "Nuclear energy comes from E = mc² — a tiny fraction of nuclear mass converts to enormous energy. Fission: a neutron absorbed by Uranium-235 splits it into smaller nuclei, releasing energy and more neutrons that sustain a chain reaction. This is controlled in a nuclear reactor to generate heat for electricity. Fusion: light nuclei (hydrogen isotopes) fuse under extreme temperature and pressure to form helium, releasing colossal energy. This powers stars; achieving controlled fusion for power generation on Earth remains a major scientific challenge.",
+          "detailed_cn": "核能来源于爱因斯坦公式E = mc²——极少量核质量转化为巨大能量。核裂变：铀-235吸收一个中子后分裂成较小核，释放能量和更多中子，中子继续引发裂变，形成链式反应，在核反应堆中被控制用于发电。核聚变：氢的同位素（氘、氚）在极高温度和压力下聚合成氦，释放出巨大能量，这是太阳和其他恒星的能量来源。在地球上实现可控核聚变发电仍是科学研究的重大挑战。"
+        },
+        {
+          "topic_en": "Solar Energy",
+          "topic_cn": "太阳能",
+          "short": "Energy from the Sun. Two technologies: Solar Thermal (heat water/fluid) and Solar PV (sunlight → DC electricity).",
+          "short_cn": "来自太阳的能量。两种利用方式：太阳能热水器（加热水/流体）和太阳能电池（光能转化为直流电）。",
+          "detailed": "The Sun is a giant continuous fusion reactor. Solar energy (insolation) drives Earth's climate and biosphere. Photosynthesis captures a fraction of this energy — the ultimate origin of fossil fuels. Direct harnessing technologies: Solar Thermal — collectors absorb sunlight to heat a fluid for domestic or industrial use. Solar Photovoltaic (PV) — semiconductor solar cells convert sunlight directly to DC electricity. Solar PV is a rapidly growing source of clean electricity worldwide.",
+          "detailed_cn": "太阳是一个巨型持续聚变反应堆。太阳能（辐射能）驱动地球气候和生物圈。光合作用捕获其中一部分能量，是化石燃料的最终来源。直接利用太阳能的两大技术：太阳能热水器——集热器吸收阳光加热液体（水），供生活或工业使用；太阳能电池（光伏发电）——半导体材料将阳光直接转化为直流电。光伏发电是全球增长最快的清洁能源之一。"
+        },
+        {
+          "topic_en": "Energy and Sustainable Development",
+          "topic_cn": "能源与可持续发展",
+          "short": "Meet present energy needs without compromising future generations. Key: efficiency improvements + shift to renewables.",
+          "short_cn": "在满足当代人能源需求的同时，不损害后代满足其需求的能力。关键：提高能源效率，加快向可再生能源转型。",
+          "detailed": "Energy use has significant consequences. The second law of thermodynamics means energy conversions are never perfectly efficient — some energy is always degraded to waste heat. Burning fossil fuels has led to the enhanced greenhouse effect (climate change) and acid rain from SO₂ and NOₓ emissions. The path to sustainability involves two strategies: dramatically improving energy efficiency across all sectors, and transitioning from finite, polluting fossil fuels to clean, inexhaustible renewable resources.",
+          "detailed_cn": "能源使用带来严重后果。热力学第二定律表明能量转化永远不可能完全高效——总有一部分能量以废热形式耗散。大量燃烧化石燃料导致温室效应增强（气候变化），以及SO₂和NOₓ排放造成的酸雨问题。实现可持续发展的路径包含两大策略：大幅提高各行业的能源利用效率；加快将有限、污染环境的化石燃料替换为清洁、可再生的能源资源。这是21世纪最重要的挑战之一。"
+        }
+      ]
+    }
+  ]
+}
