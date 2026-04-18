@@ -20,7 +20,7 @@ const TEMPLATE_THRESHOLDS: Record<string, TemplateDuration> = {
   "180": "9months",
 };
 
-export async function POST(req: NextRequest) {
+export const POST = async (req: NextRequest) => {
   const ip = getClientIP(req);
   const rl = checkRateLimit(ip);
   if (!rl.allowed) {
